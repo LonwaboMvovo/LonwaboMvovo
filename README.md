@@ -3,6 +3,7 @@
 **Thanks for stumbling upon my GitHub page (whether it was intentional or not)** <br>
 **I'm a developer based in Cape Town, South Africa** <br>
 **I like to create games and also make applications related to my hobbies**
+
 <br>
 
 *At the moment, I'm busy working on a platformer game using Pygame.* <img src="https://user-images.githubusercontent.com/57689939/222917304-57940e94-935f-42d2-b4d6-b0bcdc7cd39f.png" height="30" align="left">
