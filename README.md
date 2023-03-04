@@ -1,4 +1,4 @@
-### Hello there!!! 👋 <img src="https://user-images.githubusercontent.com/57689939/222917072-c883ce58-bc06-4206-8ce6-d42bf9a81e5b.png" height="30">
+### Hello there!!! 👋 <img src="https://user-images.githubusercontent.com/57689939/222917072-c883ce58-bc06-4206-8ce6-d42bf9a81e5b.png" height="30" style="padding-top: 25px;">
 
 - I’m currently working on a platformer game using pygame <img src="https://user-images.githubusercontent.com/57689939/222917304-57940e94-935f-42d2-b4d6-b0bcdc7cd39f.png" height="30">
 
