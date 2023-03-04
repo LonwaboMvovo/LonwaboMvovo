@@ -17,8 +17,6 @@
 *Finally, a fun fact about me: I can solve a Rubik's cube moderately fast* <img src="https://user-images.githubusercontent.com/57689939/222917506-71a784ef-526d-47f2-89b5-ceb05c5266d2.png" height="30" align="left">
 
 <br>
-<hr>
-<br>
 
 <img src="https://user-images.githubusercontent.com/57689939/222919564-eeaf561b-8137-49bf-a805-1f843ee57f84.png" height="30" align="left"> <a href="https://www.linkedin.com/in/lonwabo-mvovo/">LonwaboMvovo</a>
 
