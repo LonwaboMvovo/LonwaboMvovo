@@ -1,6 +1,6 @@
 ### Hello there!!! ![image](https://user-images.githubusercontent.com/57689939/222917072-c883ce58-bc06-4206-8ce6-d42bf9a81e5b.png)
 
-- I’m currently working on a platformer game using pygame ![image](https://user-images.githubusercontent.com/57689939/222917304-57940e94-935f-42d2-b4d6-b0bcdc7cd39f.png)
+- I’m currently working on a platformer game using pygame <img src="https://user-images.githubusercontent.com/57689939/222917304-57940e94-935f-42d2-b4d6-b0bcdc7cd39f.png" height="20">
 - I’m currently learning java ![image](https://user-images.githubusercontent.com/57689939/222917296-508f07a0-ded5-4ea2-b637-d7fcd08965b5.png)
 - How to reach me: https://twitter.com/Mvovo44 ![image](https://user-images.githubusercontent.com/57689939/222917635-52c60891-233c-4bd1-a3ef-0bb6e9c0f292.png)
 - Pronouns: he/him/his ![image](https://user-images.githubusercontent.com/57689939/222917463-c6a8805a-bd9d-4345-bfc2-d3818728655b.png)
