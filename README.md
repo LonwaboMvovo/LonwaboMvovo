@@ -1,7 +1,9 @@
 ### Hello there!!! 👋 <img src="https://user-images.githubusercontent.com/57689939/222917072-c883ce58-bc06-4206-8ce6-d42bf9a81e5b.png" height="30">
 
 <br>
+
 *Thanks for stumbling upon my humble GitHub page (whether it was intentional or not). I'm a developer based in Cape Town, South Africa. I like to create games, and applications for my hobbies.*
+
 <br>
 
 At the moment, I'm busy working on a platformer game using Pygame. Think Fireboy & Watergirl, with a twist when the two elements collide. Stay tuned for updates on this project! <img src="https://user-images.githubusercontent.com/57689939/222917304-57940e94-935f-42d2-b4d6-b0bcdc7cd39f.png" height="30" align="left">
