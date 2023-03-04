@@ -2,7 +2,7 @@
 
 <br>
 
-***Thanks for stumbling upon my GitHub page (whether it was intentional or not). I'm a developer based in Cape Town, South Africa. I like to create games and applications related to my hobbies.***
+***Thanks for stumbling upon my GitHub page (whether it was intentional or not). I'm a developer based in Cape Town, South Africa. I like to create games and also make applications related to my hobbies.***
 
 <br>
 
