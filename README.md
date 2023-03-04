@@ -4,7 +4,7 @@ I’m currently working on a platformer game using pygame <img src="https://user
 
 I’m currently learning java <img src="https://user-images.githubusercontent.com/57689939/222917296-508f07a0-ded5-4ea2-b637-d7fcd08965b5.png" height="30" align="left">
 
-How to reach me: <img src="https://user-images.githubusercontent.com/57689939/222917635-52c60891-233c-4bd1-a3ef-0bb6e9c0f292.png" height="30" align="left"> https://twitter.com/Mvovo44
+How to reach me: <img src="https://user-images.githubusercontent.com/57689939/222917635-52c60891-233c-4bd1-a3ef-0bb6e9c0f292.png" height="30" align="left"> <a href="https://twitter.com/Mvovo44">Mvovo44s</a>
 
 Pronouns: he/him/his <img src="https://user-images.githubusercontent.com/57689939/222917463-c6a8805a-bd9d-4345-bfc2-d3818728655b.png" height="30" align="left">
 
