@@ -1,6 +1,8 @@
 ### Hello there!!! 👋 <img src="https://user-images.githubusercontent.com/57689939/222917072-c883ce58-bc06-4206-8ce6-d42bf9a81e5b.png" height="30">
 
-I’m currently working on a platformer game using pygame <img src="https://user-images.githubusercontent.com/57689939/222917304-57940e94-935f-42d2-b4d6-b0bcdc7cd39f.png" height="30" align="left">
+*I'm a developer based in Cape Town, South Africa.*
+
+The project I'm busy with at the moment is a platformer game using pygame <img src="https://user-images.githubusercontent.com/57689939/222917304-57940e94-935f-42d2-b4d6-b0bcdc7cd39f.png" height="30" align="left">
 
 I’m currently learning java <img src="https://user-images.githubusercontent.com/57689939/222917296-508f07a0-ded5-4ea2-b637-d7fcd08965b5.png" height="30" align="left">
 
