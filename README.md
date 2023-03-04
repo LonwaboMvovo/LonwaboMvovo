@@ -1,5 +1,7 @@
 ### Hello there!!! 👋 <img src="https://user-images.githubusercontent.com/57689939/222917072-c883ce58-bc06-4206-8ce6-d42bf9a81e5b.png" height="30">
 
+<br>
+
 **Thanks for stumbling upon my GitHub page (whether it was intentional or not)** <br>
 **I'm a developer based in Cape Town, South Africa** <br>
 **I like to create games and also make applications related to my hobbies**
