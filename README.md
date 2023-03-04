@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there �![image](https://user-images.githubusercontent.com/57689939/222916989-d17044f4-5bf2-4e28-bb4f-fa96f182ee20.png)
+
 
 <!--
 **LonwaboMvovo/LonwaboMvovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
