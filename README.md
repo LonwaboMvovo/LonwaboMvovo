@@ -25,13 +25,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
 </div>
-
-<br>
-
-### 💻 Socials:
-
-<img src="https://user-images.githubusercontent.com/57689939/222947480-7a3042a1-06f8-421b-9798-65ad3be7a65c.png" height="30" align="left"> <a href="https://twitter.com/Mvovo44">Mvovo44 Twitter</a>
-
-<img src="https://user-images.githubusercontent.com/57689939/222947509-c5a960cb-2537-424d-9922-63afed8dc671.png" height="30" align="left"> <a href="https://www.linkedin.com/in/lonwabo-mvovo/">LonwaboMvovo LinkedIn</a>
-
-<img src="https://user-images.githubusercontent.com/57689939/222946422-ec8c42fd-9988-4600-91bb-b3d338bbea5d.png" height="30" align="left"> <a href="mailto: lonwabomvovo@gmail.com">Lonwabo Mvovo email</a>
