@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <strong>Hello, World! 👋</strong> <br>
+  <h4><strong>Hello, World! 👋</strong></h4>
+  <br>
   <strong>Thanks for stumbling upon my GitHub page (whether it was intentional or not)</strong> <br>
   <strong>I'm a developer based in Cape Town, South Africa</strong> <br>
   <strong>I like to create games and also make applications related to my hobbies</strong>
