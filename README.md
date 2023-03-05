@@ -26,6 +26,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
 </div>
 
-<hr>
+<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=LonwaboMvovo)
