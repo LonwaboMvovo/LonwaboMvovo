@@ -1,8 +1,7 @@
-<div id="header" align="center">
-  <h3><strong>Hello, World! 👋</strong></h3>
-  <strong>I'm a developer based in Cape Town, South Africa</strong> <br>
-  <strong>I like to create games and also make applications related to my hobbies</strong>
-</div>
+## Hello, World! 👋
+
+**I'm a developer based in Cape Town, South Africa <br>
+**I like to create games and also make applications related to my hobbies
 
 <br>
 
