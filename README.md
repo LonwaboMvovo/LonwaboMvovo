@@ -16,7 +16,7 @@
 
 <br>
 
-### :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: Languages:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
