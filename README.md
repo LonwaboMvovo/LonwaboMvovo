@@ -2,7 +2,7 @@
 
 <strong>I'm a developer based in Cape Town, South Africa</strong> <br>
 
-<strong>I like to create games and also make applications related to my hobbies</strong>
+<strong>I like to create games and applications</strong>
 
 <br>
 
