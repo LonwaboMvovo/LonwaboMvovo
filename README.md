@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg4MzZjMDQyOTliNTBmZTNkZWYwNWFhMjY5YWI1MGZhMDhlZTAwMCZjdD1n/i4MAH84pqe2m2aVojc/giphy.gif" width="100"/>
 </div>
 
+<br>
+
 **Thanks for stumbling upon my GitHub page (whether it was intentional or not)** <br>
 **I'm a developer based in Cape Town, South Africa** <br>
 **I like to create games and also make applications related to my hobbies**
