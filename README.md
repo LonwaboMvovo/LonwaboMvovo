@@ -18,7 +18,8 @@
 
 <img src="https://user-images.githubusercontent.com/57689939/222917506-71a784ef-526d-47f2-89b5-ceb05c5266d2.png" height="30" align="left"> *Finally, a fun fact about me: I can solve a Rubik's cube pretty quick, usually in less than 15 seconds.*
 
-## Contact me:
+<br>
+### Socials:
 
 <img src="https://user-images.githubusercontent.com/57689939/222947480-7a3042a1-06f8-421b-9798-65ad3be7a65c.png" height="30" align="left"> <a href="https://twitter.com/Mvovo44">Mvovo44 Twitter</a>
 
