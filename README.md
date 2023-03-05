@@ -1,4 +1,4 @@
-## Hello there!!! 👋 <img src="https://user-images.githubusercontent.com/57689939/222917072-c883ce58-bc06-4206-8ce6-d42bf9a81e5b.png" height="30">
+# Hello there!!! 👋 <img src="https://user-images.githubusercontent.com/57689939/222917072-c883ce58-bc06-4206-8ce6-d42bf9a81e5b.png" height="30">
 
 <br>
 
@@ -18,6 +18,8 @@
 
 <br>
 <br>
+
+## Contact me:
 
 <img src="https://user-images.githubusercontent.com/57689939/222946422-ec8c42fd-9988-4600-91bb-b3d338bbea5d.png" height="30" align="left"> <a href="mailto: lonwabomvovo@gmail.com">Lonwabo Mvovo email</a>
 
