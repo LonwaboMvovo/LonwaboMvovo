@@ -1,8 +1,8 @@
 ## Hello, World! 👋
 
-** I'm a developer based in Cape Town, South Africa
+<strong>I'm a developer based in Cape Town, South Africa</strong> <br>
 
-** I like to create games and also make applications related to my hobbies
+<strong>I like to create games and also make applications related to my hobbies</strong>
 
 <br>
 
