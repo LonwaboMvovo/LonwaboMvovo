@@ -20,7 +20,7 @@
 
 ## Contact me:
 
-<img src="https://user-images.githubusercontent.com/57689939/222946422-ec8c42fd-9988-4600-91bb-b3d338bbea5d.png" height="30" align="left"> <a href="mailto: lonwabomvovo@gmail.com">Lonwabo Mvovo email</a>
+<img src="https://user-images.githubusercontent.com/57689939/222946422-ec8c42fd-9988-4600-91bb-b3d338bbea5d.png" height="30" align="center"> <a href="mailto: lonwabomvovo@gmail.com">Lonwabo Mvovo email</a>
 
 <img src="https://user-images.githubusercontent.com/57689939/222919564-eeaf561b-8137-49bf-a805-1f843ee57f84.png" height="30" align="left"> <a href="https://www.linkedin.com/in/lonwabo-mvovo/">LonwaboMvovo LinkedIn</a>
 
