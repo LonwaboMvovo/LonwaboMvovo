@@ -1,20 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg4MzZjMDQyOTliNTBmZTNkZWYwNWFhMjY5YWI1MGZhMDhlZTAwMCZjdD1n/i4MAH84pqe2m2aVojc/giphy.gif" width="100"/>
+
   <br>
+
   <strong>Thanks for stumbling upon my GitHub page (whether it was intentional or not)</strong> <br>
   <strong>I'm a developer based in Cape Town, South Africa</strong> <br>
   <strong>I like to create games and also make applications related to my hobbies</strong>
-</div>
-
-<br>
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
 <br>
@@ -26,6 +17,15 @@
 <img src="https://user-images.githubusercontent.com/57689939/222917463-c6a8805a-bd9d-4345-bfc2-d3818728655b.png" height="30" align="left"> *In case you were wondering, my pronouns are he/him/his*
 
 <img src="https://user-images.githubusercontent.com/57689939/222917506-71a784ef-526d-47f2-89b5-ceb05c5266d2.png" height="30" align="left"> *Finally, a fun fact about me: I can solve a Rubik's cube pretty quick, usually in less than 15 seconds.*
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="20" height="20"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="20" height="20"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="20" height="20"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20" height="20"/>&nbsp;
+</div>
 
 <br>
 
