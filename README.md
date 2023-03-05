@@ -31,7 +31,7 @@
 
 <br>
 
-### Socials:
+### 💻 Socials:
 
 <img src="https://user-images.githubusercontent.com/57689939/222947480-7a3042a1-06f8-421b-9798-65ad3be7a65c.png" height="30" align="left"> <a href="https://twitter.com/Mvovo44">Mvovo44 Twitter</a>
 
