@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-## Hello, world!!! 👋 <img src="https://user-images.githubusercontent.com/57689939/222917072-c883ce58-bc06-4206-8ce6-d42bf9a81e5b.png" height="30">
+## Hello, world!!! 👋 <img src="https://user-images.githubusercontent.com/57689939/222947923-15f10122-749f-40f2-b7ab-f9783f3f156b.gif" height="30">
 
 <br>
 
