@@ -1,5 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg4MzZjMDQyOTliNTBmZTNkZWYwNWFhMjY5YWI1MGZhMDhlZTAwMCZjdD1n/i4MAH84pqe2m2aVojc/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/lonwabo-mvovo/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/Mvovo44">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+</div>
 </div>
 
 <br>
@@ -21,9 +29,5 @@
 <br>
 
 ## Contact me:
-
-<img src="https://user-images.githubusercontent.com/57689939/222947480-7a3042a1-06f8-421b-9798-65ad3be7a65c.png" height="30" align="left"> <a href="https://twitter.com/Mvovo44">Mvovo44 Twitter</a>
-
-<img src="https://user-images.githubusercontent.com/57689939/222947509-c5a960cb-2537-424d-9922-63afed8dc671.png" height="30" align="left"> <a href="https://www.linkedin.com/in/lonwabo-mvovo/">LonwaboMvovo LinkedIn</a>
 
 <img src="https://user-images.githubusercontent.com/57689939/222946422-ec8c42fd-9988-4600-91bb-b3d338bbea5d.png" height="30" align="left"> <a href="mailto: lonwabomvovo@gmail.com">Lonwabo Mvovo email</a>
