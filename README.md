@@ -8,7 +8,7 @@
 
 <br>
 
-*At the moment, I'm busy working on a platformer game using Pygame.* <img src="https://user-images.githubusercontent.com/57689939/222917304-57940e94-935f-42d2-b4d6-b0bcdc7cd39f.png" height="30" align="left">
+<img src="https://user-images.githubusercontent.com/57689939/222917304-57940e94-935f-42d2-b4d6-b0bcdc7cd39f.png" height="30" align="left"> *At the moment, I'm busy working on a platformer game using Pygame.*
 
 *I'm also in the process of learning Java* <img src="https://user-images.githubusercontent.com/57689939/222917296-508f07a0-ded5-4ea2-b637-d7fcd08965b5.png" height="30" align="left">
 
@@ -20,7 +20,7 @@
 
 ## Contact me:
 
-<img src="https://user-images.githubusercontent.com/57689939/222946422-ec8c42fd-9988-4600-91bb-b3d338bbea5d.png" height="30" align="center"> <a href="mailto: lonwabomvovo@gmail.com">Lonwabo Mvovo email</a>
+<img src="https://user-images.githubusercontent.com/57689939/222946422-ec8c42fd-9988-4600-91bb-b3d338bbea5d.png" height="30" align="left"> <a href="mailto: lonwabomvovo@gmail.com">Lonwabo Mvovo email</a>
 
 <img src="https://user-images.githubusercontent.com/57689939/222919564-eeaf561b-8137-49bf-a805-1f843ee57f84.png" height="30" align="left"> <a href="https://www.linkedin.com/in/lonwabo-mvovo/">LonwaboMvovo LinkedIn</a>
 
