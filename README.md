@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjg4MzZjMDQyOTliNTBmZTNkZWYwNWFhMjY5YWI1MGZhMDhlZTAwMCZjdD1n/i4MAH84pqe2m2aVojc/giphy.gif" width="100"/>
   <br>
-  <strong>Thanks for stumbling upon my GitHub page (whether it was intentional or not)</strong>
-  <strong>I'm a developer based in Cape Town, South Africa</strong>
+  <strong>Thanks for stumbling upon my GitHub page (whether it was intentional or not)</strong> <br>
+  <strong>I'm a developer based in Cape Town, South Africa</strong> <br>
   <strong>I like to create games and also make applications related to my hobbies</strong>
 </div>
 
