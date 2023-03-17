@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/57689939/222917304-57940e94-935f-42d2-b4d6-b0bcdc7cd39f.png" height="30" align="left"> *At the moment, I'm taking part in the Hack Cape Town Hackathon.*
+<img src="https://user-images.githubusercontent.com/57689939/222917304-57940e94-935f-42d2-b4d6-b0bcdc7cd39f.png" height="30" align="left"> *At the moment, I'm busy making a 2d platformer game*
 
 <br>
 
@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/57689939/222917506-71a784ef-526d-47f2-89b5-ceb05c5266d2.png" height="30" align="left"> *Finally, a fun fact about me: I can solve a Rubik's cube in under 15 seconds.*
+<img src="https://user-images.githubusercontent.com/57689939/222917506-71a784ef-526d-47f2-89b5-ceb05c5266d2.png" height="30" align="left"> *Finally, a fun fact about me: I can solve a Rubik's cube in under 15 seconds*
 
 <br>
 
