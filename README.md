@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/57689939/222917304-57940e94-935f-42d2-b4d6-b0bcdc7cd39f.png" height="30" align="left"> *"At the moment, I'm in the process of learning game development with Unity & C#*
+<img src="https://user-images.githubusercontent.com/57689939/222917304-57940e94-935f-42d2-b4d6-b0bcdc7cd39f.png" height="30" align="left"> *"At the moment, I'm in the process of learning game development with Unity && C#*
 
 <br>
 
