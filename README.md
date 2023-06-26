@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/57689939/222917304-57940e94-935f-42d2-b4d6-b0bcdc7cd39f.png" height="30" align="left"> <strong>*At the moment, I'm in the process of learning game development with Unity && C#*</strong>
+<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/assets/57689939/d60abf03-3572-4c93-9259-4597c871770e" height="30" align="left"> <strong>*At the moment, I'm in the process of learning game development with Unity && C#*</strong>
 
 <br>
 
@@ -18,7 +18,7 @@
 
 <br>
 
-<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/assets/57689939/b634ee17-0e96-49a2-994b-375d8c0ef32c" height="30" align="left"> <strong>*Languages & Tools:*</strong>
+<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/assets/57689939/a506ef8c-5c11-4509-a51f-973faadf0431" height="30" align="left"> <strong>*Languages & Tools:*</strong>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="30" height="30"/>&nbsp;&nbsp;&nbsp;
