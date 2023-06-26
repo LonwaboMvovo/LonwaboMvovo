@@ -18,7 +18,9 @@
 
 <br>
 
-<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/assets/57689939/cb83a15f-9a9f-4006-b0c5-9905c706cd7e" height="30" align="left"> <strong>*Languages & Tools:s*</strong>
+<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/assets/57689939/cb83a15f-9a9f-4006-b0c5-9905c706cd7e" height="30" align="left"> <strong>*Languages & Tools:*</strong>
+
+<br>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="30" height="30"/>&nbsp;&nbsp;&nbsp;
