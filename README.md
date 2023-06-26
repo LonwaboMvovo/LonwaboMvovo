@@ -20,8 +20,6 @@
 
 ### :hammer_and_wrench: Languages & Tools:
 
-<br>
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="30" height="30"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="30" height="30"/>&nbsp;&nbsp;
