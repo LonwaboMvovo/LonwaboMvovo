@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/assets/57689939/c5954d15-dbf0-4d8e-aa48-028533a084d2" title="Pepega" height="30" align="right"> <strong>*I'm also in the process of learning Web Dev with the Flask framework*</strong>
+<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/assets/57689939/c5954d15-dbf0-4d8e-aa48-028533a084d2" title="Pepega" height="30" align="right"> <strong>*I'm also in the process of learning to Build Web Applications with Flask*</strong>
 
 <br>
 
