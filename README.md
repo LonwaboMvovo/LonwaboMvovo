@@ -2,7 +2,7 @@
 
 <br>
 
-<strong>I'm a developer based in Cape Town, South Africa, who enjoys making applications and games</strong>
+<strong>I'm a junior software developer based in Cape Town, South Africa focused on full-stack development with an interest in game development</strong>
 
 <br>
 
