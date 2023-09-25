@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/assets/57689939/d60abf03-3572-4c93-9259-4597c871770e" title="POGGIES" height="30" align="left"> <strong>*At the moment, I'm working on a sorting algorithm project*</strong>
+<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/assets/57689939/d60abf03-3572-4c93-9259-4597c871770e" title="POGGIES" height="30" align="left"> <strong>*At the moment, I'm working on a [sorting algorithm project](https://github.com/LonwaboMvovo/push_paws)*</strong>
 
 <br>
 
