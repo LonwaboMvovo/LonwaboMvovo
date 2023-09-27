@@ -11,7 +11,7 @@
 <br>
 
 <img src="![image](https://github.com/LonwaboMvovo/LonwaboMvovo/assets/57689939/e7238717-52d1-4d4c-8292-31b17d747a7b)
-" title="Pepega" height="30" align="left"> <strong>*I'm also in the process of learning to build web applications with Flask*</strong>
+" title="VASED" height="30" align="left"> <strong>*I'm also in the process of learning to build web applications with Flask*</strong>
 
 <br>
 
