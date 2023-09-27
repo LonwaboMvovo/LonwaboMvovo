@@ -14,7 +14,8 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/57689939/222917506-71a784ef-526d-47f2-89b5-ceb05c5266d2.png" title="COPIUM" height="30" align="left"> <strong>*Fun fact about me: I can solve a Rubik's cube in under 15 seconds*</strong>
+<img src="![image](https://github.com/LonwaboMvovo/LonwaboMvovo/assets/57689939/0a36be0f-7f07-4412-89e7-fe22b502c054)
+" title="peepoCube" height="30" align="left"> <strong>*Fun fact about me: I enjoy speedcubing and can solve a Rubik's cube in under 15 seconds*</strong>
 
 <br>
 
