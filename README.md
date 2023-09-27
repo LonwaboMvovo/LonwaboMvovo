@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/vased.webp" title="VASED" height="30" align="left"> <strong>*I'm also in the process of learning to build web applications with Flask*</strong>
+<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/FlaskTime.webp" title="FlaskTime" height="30" align="left"> <strong>*I'm also in the process of learning to build web applications with Flask*</strong>
 
 <br>
 
