@@ -18,7 +18,7 @@
 
 <br>
 
-<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/assets/57689939/a506ef8c-5c11-4509-a51f-973faadf0431" title="HACKERMANS" height="30" align="left"> <strong>*Languages & Tools:*</strong>
+<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/hackermans.webp" title="HACKERMANS" height="30" align="left"> <strong>*Languages & Tools:*</strong>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;&nbsp;&nbsp;
