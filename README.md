@@ -6,11 +6,12 @@
 
 <br>
 
-<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/assets/57689939/d60abf03-3572-4c93-9259-4597c871770e" title="POGGIES" height="30" align="left"> <strong>*At the moment, I'm working on a [sorting algorithm project](https://github.com/LonwaboMvovo/push_paws)*</strong>
+<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/bogosort.gif" title="Bogosort" height="30" align="left"> <strong>*At the moment, I'm working on a [sorting algorithm project](https://github.com/LonwaboMvovo/push_paws)*</strong>
 
 <br>
 
-<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/assets/57689939/c5954d15-dbf0-4d8e-aa48-028533a084d2" title="Pepega" height="30" align="right"> <strong>*I'm also in the process of learning to build web applications with Flask*</strong>
+<img src="![image](https://github.com/LonwaboMvovo/LonwaboMvovo/assets/57689939/e7238717-52d1-4d4c-8292-31b17d747a7b)
+" title="Pepega" height="30" align="left"> <strong>*I'm also in the process of learning to build web applications with Flask*</strong>
 
 <br>
 
