@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/peepocube.webp" title="peepoCube" height="30" align="left"> <strong>*Fun fact about me: I enjoy speedcubing and can solve a Rubik's cube in under 15 seconds*</strong>
+<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/peepocube.webp" title="peepoCube" height="30" align="left"> <strong>*Fun fact about me: I enjoy speedcubing and can solve a Rubik's cube in less than 15 seconds.*</strong>
 
 <br>
 
