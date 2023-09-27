@@ -6,12 +6,11 @@
 
 <br>
 
-<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/bogosort.gif" title="Bogosort" height="30" align="left"> <strong>*At the moment, I'm working on a [sorting algorithm project](https://github.com/LonwaboMvovo/push_paws)*</strong>
+<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/bogosort.gif" title="Bogosort" height="30" align="left"> <strong>&nbsp;&nbsp;*At the moment, I'm working on a [sorting algorithm project](https://github.com/LonwaboMvovo/push_paws)*</strong>
 
 <br>
 
-<img src="![image](https://github.com/LonwaboMvovo/LonwaboMvovo/assets/57689939/e7238717-52d1-4d4c-8292-31b17d747a7b)
-" title="VASED" height="30" align="left"> <strong>*I'm also in the process of learning to build web applications with Flask*</strong>
+<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/vased.webp" title="VASED" height="30" align="left"> <strong>*I'm also in the process of learning to build web applications with Flask*</strong>
 
 <br>
 
