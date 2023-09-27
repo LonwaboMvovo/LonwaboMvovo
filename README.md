@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/bogosort.gif" title="Bogosort" height="30" align="left"> <strong>&nbsp;&nbsp;*At the moment, I'm working on a [sorting algorithm project](https://github.com/LonwaboMvovo/push_paws)*</strong>
+<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/bogocope.webp" title="Bogosort" height="30" align="left"> <strong>*At the moment, I'm working on a [sorting algorithm project](https://github.com/LonwaboMvovo/push_paws)*</strong>
 
 <br>
 
