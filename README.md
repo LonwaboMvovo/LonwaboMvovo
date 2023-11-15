@@ -6,11 +6,7 @@
 
 <br>
 
-<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/bogocope.webp" title="Bogosort" height="30" align="left"> <strong>*At the moment, I'm working on a [sorting algorithm project](https://github.com/LonwaboMvovo/push_paws)*</strong>
-
-<br>
-
-<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/peepog.webp" title="peepoG" height="30" align="left"> <strong>*I'm also in the process of learning to build web applications with Flask*</strong>
+<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/bogocope.webp" title="think3D" height="30" align="left"> <strong>*At the moment, I'm planning my next project*</strong>
 
 <br>
 
@@ -26,5 +22,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="30" height="30"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="30" height="30"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;&nbsp;&nbsp;
 </div>
