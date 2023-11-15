@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/bogocope.webp" title="think3D" height="30" align="left"> <strong>*At the moment, I'm planning my next project*</strong>
+<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/think3d.webp" title="think3D" height="30" align="left"> <strong>*At the moment, I'm planning my next project*</strong>
 
 <br>
 
