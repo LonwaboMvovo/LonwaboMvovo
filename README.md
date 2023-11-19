@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/peepocube.webp" title="peepoCube" height="30" align="left"> <strong>*I enjoy speedcubing and can solve a Rubik's cube in less than 15 seconds*</strong>
+<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/peepocube.webp" title="peepoCube" height="30" align="left"> <strong>*Speedcubing is a passion of mine, and I can consistently solve a Rubik's cube in under 15 seconds*</strong>
 
 <br>
 
