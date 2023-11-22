@@ -10,6 +10,10 @@
 
 <br>
 
+<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/peepog.webp" title="peepoG" height="30" align="left"> <strong>*I'm also in the process of learning MySQL and the Ionic framework*</strong>
+
+<br>
+
 <img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/peepocube.webp" title="peepoCube" height="30" align="left"> <strong>*In my free time, I enjoy speedcubing and can solve a Rubik's cube in under 15 seconds*</strong>
 
 <br>
