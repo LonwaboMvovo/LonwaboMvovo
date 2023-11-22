@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/think3d.webp" title="think3D" height="30" align="left"> <strong>*At the moment, I'm planning my next project*</strong>
+<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/dotA.png" title="dotA" height="30" align="left"> <strong>*I am currently developing a DOTA 2 hero directory app*</strong>
 
 <br>
 
