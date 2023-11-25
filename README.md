@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/peepog.webp" title="peepoG" height="30" align="left"> <strong>*I'm also in the process of learning MySQL and the Ionic framework*</strong>
+<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/peepog.webp" title="peepoG" height="30" align="left"> <strong>*I'm also in the process of learning MySQL and React*</strong>
 
 <br>
 
