@@ -2,7 +2,7 @@
 
 <br>
 
-<strong>I'm a developer based in Cape Town, South Africa focused on full-stack development with a preference for back-end development</strong>
+<strong>I'm a developer based in Cape Town, South Africa interested in full-stack development</strong>
 
 <br>
 
