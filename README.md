@@ -6,11 +6,7 @@
 
 <br>
 
-<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/dotA.png" title="dotA" height="30" align="left"> <strong>*I am currently developing a [DOTA 2 directory site](https://github.com/LonwaboMvovo/dotAlmanac)*</strong>
-
-<br>
-
-<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/peepog.webp" title="peepoG" height="30" align="left"> <strong>*I'm also in the process of learning MySQL and React*</strong>
+<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/peepog.webp" title="peepoG" height="30" align="left"> <strong>*I'm in the process of learning Microsoft Access*</strong>
 
 <br>
 
