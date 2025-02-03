@@ -6,10 +6,6 @@
 
 <br>
 
-<img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/peepog.webp" title="peepoG" height="30" align="left"> <strong>*Learning...*</strong>
-
-<br>
-
 <img src="https://github.com/LonwaboMvovo/LonwaboMvovo/blob/main/peepocube.webp" title="peepoCube" height="30" align="left"> <strong>*In my free time, I enjoy speedcubing and playing chess*</strong>
 
 <br>
